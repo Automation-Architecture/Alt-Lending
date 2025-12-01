@@ -200,10 +200,10 @@ Achieve a measurable increase in the conversion rate of leads into active repaym
 - Automatic backup and recovery
 
 ### Frontend Dashboard
-- Modern web framework (React, Vue, or Angular)
+- Modern web framework (React)
 - Responsive design
 - Real-time updates (WebSockets or Server-Sent Events)
-- Data visualization library (D3.js, Chart.js)
+- Tailwind CSS for styling
 
 ### Monitoring & Alerts
 - Email service integration (Brevo)
@@ -316,9 +316,9 @@ Fully functional, deployed system capable of:
 - Access to existing lead database and CRM system
 - CRM API access and documentation
 - Legal approval for web scraping and data collection activities
-- Email service provider account
-- Cloud infrastructure (AWS, GCP, or Azure)
-- Third-party API access (LinkedIn, etc.) where required
+- Email service provider account (Brevo)
+- Cloud infrastructure (Google Cloud Platform)
+- Third-party API access where required
 - Compliance review and approval
 
 ## Out of Scope
